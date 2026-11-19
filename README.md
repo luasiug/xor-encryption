@@ -105,7 +105,7 @@ xor-encryption/
 
 ## Resources
 
-- AI learning conversation: [(https://claude.ai/share/17083ad3-916a-479b-938b-2eb869b2da13)]
+- AI learning conversation: [https://claude.ai/share/17083ad3-916a-479b-938b-2eb869b2da13](url)
 - [XOR cipher – Wikipedia](https://en.wikipedia.org/wiki/XOR_cipher)
 - [One-time pad – Wikipedia](https://en.wikipedia.org/wiki/One-time_pad)
 - [Bitwise operation – Wikipedia](https://en.wikipedia.org/wiki/Bitwise_operation)
