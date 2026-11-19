@@ -96,11 +96,10 @@ HELLO
 
 ```
 xor-encryption/
-├── README.md
 ├── code/
-│   └── xor_cipher.c      # encrypt/decrypt demo
-└── slides/
-    └── xor-presentation.pdf
+│   └── xor_cipher.c        # encrypt/decrypt demo
+├── README.md
+└── xor-presentation.pdf    # presentation slides
 ```
 
 ## Resources
