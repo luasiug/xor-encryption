@@ -1,4 +1,4 @@
-// I wanted something that used a same size key
+// I wanted something that used a same size key //
 
 #include <stdio.h>
 #include <string.h>
